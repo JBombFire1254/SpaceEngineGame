@@ -1,5 +1,6 @@
 cd bin 
 
-java TestProgram/Launcher
+java Game/Launcher
 
-/k
+
+cmd/k
