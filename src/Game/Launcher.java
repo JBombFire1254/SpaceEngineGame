@@ -2,18 +2,15 @@ package Game;
 
 import javax.swing.JFrame;
 
+import Game.Display.Display;
+
 public class Launcher {
 	
-	public static JFrame frame;
+	private static Display display;
 	
 	
 	public static void main(String[] args) {
-		
-		frame = new JFrame();
-		frame.setSize(800, 800);
-		frame.setLocationRelativeTo(null);
-		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.setVisible(true);
+		display = new Display("2D Space Engine", 800, 800);
 		
 	}
 }
