@@ -43,7 +43,19 @@ public class Display {
 
 	}
 
+	public JFrame getJFrame() {
+		return this.frame;
+	}
 
+	public void setJFrame(JFrame frame) {
+		this.frame = frame;
+	}
 
+	public Canvas getCanvas() {
+		return this.canvas;
+	}
 
+	public void setCanvas(Canvas canvas) {
+		this.canvas = canvas;
+	}
 }
