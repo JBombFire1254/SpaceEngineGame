@@ -1,0 +1,11 @@
+Key:
+X = created/setup
+  = Not Started
+I = Incomplete
+
+- [X] Launcher.java[FILE]{launch point for the program}
+
+- [X] Display[FOLDER]
+	- [X] Display.java[FILE] {handles the Jframe information and the Canvas setup}
+
+- [ ] States[FOLDER]{allows control between states and different program menues.}
