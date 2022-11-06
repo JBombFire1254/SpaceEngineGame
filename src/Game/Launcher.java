@@ -9,7 +9,7 @@ public class Launcher {
 	
 	//START POINT OF PPROGRAM
 	public static void main(String[] args) {
-		display = new Display("2D Space Engine", 800, 800);
+		display = new Display("2D Space Engine", 1600, 900);
 		
 	}
 }
