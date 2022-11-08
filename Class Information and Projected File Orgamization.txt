@@ -8,4 +8,4 @@ I = Incomplete
 - [X] Display[FOLDER]
 	- [X] Display.java[FILE] {handles the Jframe information and the Canvas setup}
 
-- [ ] States[FOLDER]{allows control between states and different program menues.}
+- [X] States[FOLDER]{allows control between states and different program menues.}
