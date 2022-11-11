@@ -1,10 +1,16 @@
 # 2D space Flight Game
-## Development Started: 11/1/2022
+__Development Started: 11/1/2022__
 
-# CREATORS: 
-    Lead Development: Jakob Edwards
-    Co-Development: - Emily Milchuck
-                    - Ty Schroeder
+## CREATORS: 
+__Software Engineers:__ 
+* Jakob Edwards
+* Alex Schatz
 
-# Description: 
-    A 2D multiplayer space flight Simulation game containing current semi-realistic space flight technologies along with future tech.
+__Software Developers:__ 
+* Emily Milchuck
+
+__Graphic Designers:__
+* Ty Schroeder
+
+## Description: 
+A 2D multiplayer space flight Simulation game containing current semi-realistic space flight technologies along with future tech.
